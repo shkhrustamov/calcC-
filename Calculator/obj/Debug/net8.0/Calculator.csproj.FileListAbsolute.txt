@@ -1,0 +1,14 @@
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/shkhrustamov/RiderProjects/Calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
